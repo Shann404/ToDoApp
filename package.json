@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Shann404.github.io/ToDoApp",
+  "homepage": "https://Shann404.github.io/ToDoApp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
