@@ -13,7 +13,6 @@ function App() {
   return (
               <ThemeProvider>
         <div className="bg-white dark:bg-gray-900 text-black dark:text-white min-h-screen flex flex-col transition-colors duration-500">
-    <Router>
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
@@ -21,7 +20,6 @@ function App() {
             <Route path="/api" element={<ApiPage />} />
           </Routes>
         </Layout>
-    </Router>
           </div>
           </ThemeProvider>
 
