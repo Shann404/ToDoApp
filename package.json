@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Shann404.github.io/react-js-jsx-and-css-mastering-front-end-development-Shann404",
+  "homepage": "https://Shann404.github.io/ToDoApp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
